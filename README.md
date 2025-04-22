@@ -40,41 +40,51 @@ like my regular glasses.
 1. maps does not play nice with my garmin watch sending a continuous stream of messages. I would really like a Garmin app that could do a few of the controls, such as A. leave the present app, B. wakeup, C. go to sleep, D. Activate last telepromptor.
    
 
+<br><br>
 
+Tips for first use   
+
+
+<img width="500px" src="https://github.com/user-attachments/assets/1a2743e8-2f69-4ed8-a5bf-620090944bea" />
+
+<br><br>
 
 Unboxing Video   
 
 https://github.com/user-attachments/assets/1a137cd5-e420-4d60-ac45-683e54a220a8
 
+<br><br>
 
 Dashboard   
 
+
+<img width="500px" src="https://github.com/user-attachments/assets/e92b92cb-623f-46f4-ab4a-e15de706d30f" />
 
 
 
 <img width="500px" src="https://github.com/user-attachments/assets/7b2e2af1-4c67-44b4-a75a-b320f0cc4e71" />
 
-
-Tips for first use   
-
-
+<br><br>
 
 <img width="500px" src="https://github.com/user-attachments/assets/023e579b-21dd-4a95-989c-9fc96dd87f87" />
 
 
-
-Before alignment right out of the box (a bit to high and slightly tiltled)
-
+<br><br>
 
 
 
 
 <img width="500px" src="https://github.com/user-attachments/assets/13c024d5-da20-40bd-80a1-449b8beec94f" />
 
-<img width="500px" src="https://github.com/user-attachments/assets/1a2743e8-2f69-4ed8-a5bf-620090944bea" />
+
+<br><br>
 
 
-<img width="500px" src="https://github.com/user-attachments/assets/e92b92cb-623f-46f4-ab4a-e15de706d30f" />
+
+<br><br>
+
+Before alignment right out of the box (a bit to high and slightly tiltled)
+
 
 
 <img width="500px" src="https://github.com/user-attachments/assets/5afa0a81-2ebd-4ecf-b656-a789dd1ab405" />
