@@ -25,6 +25,11 @@ like my regular glasses.
 
 # April 22, 2025 second thoughts and images
 
+The main Linkedin Post is [here](https://www.linkedin.com/feed/update/urn:li:activity:7319089811049365506/) Check the comments for all other linkedIn posts about the G1 glasses
+
+
+The main Youtube Playlist is [here](https://www.youtube.com/shorts/fHt66Ngm9yo)
+
 
 ![comment](https://github.com/user-attachments/assets/283ed5d3-e76c-4206-ae81-0c7645229da8)
 ![unaligned](https://github.com/user-attachments/assets/372d85bd-78c6-4f9a-b8f4-3be3487afa3d)
