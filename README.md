@@ -91,6 +91,18 @@ Before alignment right out of the box (a bit to high and slightly tiltled)
 
 <img width="500px" src="https://github.com/user-attachments/assets/5afa0a81-2ebd-4ecf-b656-a789dd1ab405" />
 
+<br><br>
+
+After alignment, the glasses are much nicer to wear and the multifocal presecription is perfect
+
+
+<img width="500px" src="https://github.com/user-attachments/assets/e37423ea-ca0c-437d-baab-6dff888fde75" />
+
+<br><br>
+
+I tried the expensive add-on the shades and they are really good
+
+<img width="500px" src="https://github.com/user-attachments/assets/1226bc81-d9b1-4bc8-bad3-130d8dc9ff5b" />
 
 ## other posts
 
