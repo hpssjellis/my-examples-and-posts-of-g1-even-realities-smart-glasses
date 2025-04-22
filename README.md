@@ -52,14 +52,14 @@ Dashboard
 
 
 
-<img width="500px" src="" />
+<img width="500px" src="https://github.com/user-attachments/assets/7b2e2af1-4c67-44b4-a75a-b320f0cc4e71" />
 
 
 Tips for first use   
 
 
 
-<img width="500px" src="" />
+<img width="500px" src="https://github.com/user-attachments/assets/023e579b-21dd-4a95-989c-9fc96dd87f87" />
 
 
 
@@ -69,8 +69,15 @@ Before alignment right out of the box (a bit to high and slightly tiltled)
 
 
 
-<img width="500px" src="" />
+<img width="500px" src="https://github.com/user-attachments/assets/13c024d5-da20-40bd-80a1-449b8beec94f" />
 
+<img width="500px" src="https://github.com/user-attachments/assets/1a2743e8-2f69-4ed8-a5bf-620090944bea" />
+
+
+<img width="500px" src="https://github.com/user-attachments/assets/e92b92cb-623f-46f4-ab4a-e15de706d30f" />
+
+
+<img width="500px" src="https://github.com/user-attachments/assets/5afa0a81-2ebd-4ecf-b656-a789dd1ab405" />
 
 
 ## other posts
