@@ -77,7 +77,7 @@ versions
 
 What you actually see. Seems to float about 2 feet in-front of you. Is easier to see looking at a dark item, but completely readable even with a light item
 
-<img width="500px" src="https://github.com/user-attachments/assets/13c024d5-da20-40bd-80a1-449b8beec94f" />
+<img width="500px" src="https://github.com/user-attachments/assets/c81b137c-fa3d-431e-b89a-201a29a7a13c" />
 
 
 
@@ -93,9 +93,6 @@ Before alignment right out of the box (a bit to high and slightly tiltled)
 
 
 ## other posts
-
-
-
 
 
 
