@@ -75,7 +75,7 @@ versions
 <br><br>
 
 
-What you actually see. Seems to float about 2 feet in-front of you. Is easier to see looking at a dark item, but completely readable even with a light item
+What you actually see. Seems to float about 2 feet in-front of you. Is easier to see looking at a dark item, but completely readable even with a light item. The clarity is even better than this image I managed to take with my cell phone looking really close to the lens from the inside.
 
 <img width="500px" src="https://github.com/user-attachments/assets/c81b137c-fa3d-431e-b89a-201a29a7a13c" />
 
