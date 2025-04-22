@@ -33,17 +33,21 @@ like my regular glasses.
 # April 22, 2025 second thoughts and images
 
 
+
+
+
 <img width="500px" style="border-color:green; border-style:groove; border-width:3px;" src="https://github.com/user-attachments/assets/283ed5d3-e76c-4206-ae81-0c7645229da8" />
 
-![comment](https://github.com/user-attachments/assets/283ed5d3-e76c-4206-ae81-0c7645229da8)
-![unaligned](https://github.com/user-attachments/assets/372d85bd-78c6-4f9a-b8f4-3be3487afa3d)
+
+![unaligned](https://github.com/user-attachments/assets/283ed5d3-e76c-4206-ae81-0c7645229da8)
 
 
 https://github.com/user-attachments/assets/1a137cd5-e420-4d60-ac45-683e54a220a8
 
 ![screen](https://github.com/user-attachments/assets/f7654c58-63c3-4a84-8ae6-b1c98c37917c)
 ![tips](https://github.com/user-attachments/assets/2a597b04-cede-4d09-95f0-38697f7371ae)
-![main](https://github.com/user-attachments/assets/9d6149e8-5965-4170-a609-e807f716b4ad)
+
+
 ![image-of-view](https://github.com/user-attachments/assets/70420c73-3865-4573-9209-69229468f6fe)
 
 
