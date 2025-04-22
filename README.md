@@ -60,11 +60,14 @@ Dashboard
 
 <img width="500px" src="https://github.com/user-attachments/assets/e92b92cb-623f-46f4-ab4a-e15de706d30f" />
 
-
+<br><br>
+Activation was easy just had to move it back and forth to the glasses case
 
 <img width="500px" src="https://github.com/user-attachments/assets/7b2e2af1-4c67-44b4-a75a-b320f0cc4e71" />
 
 <br><br>
+
+versions
 
 <img width="500px" src="https://github.com/user-attachments/assets/023e579b-21dd-4a95-989c-9fc96dd87f87" />
 
@@ -72,12 +75,11 @@ Dashboard
 <br><br>
 
 
-
+What you actually see. Seems to float about 2 feet in-front of you. Is easier to see looking at a dark item, but completely readable even with a light item
 
 <img width="500px" src="https://github.com/user-attachments/assets/13c024d5-da20-40bd-80a1-449b8beec94f" />
 
 
-<br><br>
 
 
 
