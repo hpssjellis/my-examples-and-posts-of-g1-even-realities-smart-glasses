@@ -36,7 +36,10 @@ like my regular glasses.
 
 
 
-<img width="500px" style="border-color:green; border-style:groove; border-width:3px;" src="https://github.com/user-attachments/assets/283ed5d3-e76c-4206-ae81-0c7645229da8" />
+<img width="500px" src="" />
+
+
+<img width="500px" src="" />
 
 
 Unboxing Video   
@@ -45,21 +48,28 @@ https://github.com/user-attachments/assets/1a137cd5-e420-4d60-ac45-683e54a220a8
 
 
 Dashboard   
-<img width="500px" style="border-color:green; border-style:groove; border-width:3px;" src="https://github.com/user-attachments/assets/f7654c58-63c3-4a84-8ae6-b1c98c37917c" />
 
 
+
+
+<img width="500px" src="" />
 
 
 Tips for first use   
 
-<img width="500px" style="border-color:green; border-style:groove; border-width:3px;" src="https://github.com/user-attachments/assets/2a597b04-cede-4d09-95f0-38697f7371ae" />
+
+
+<img width="500px" src="" />
+
 
 
 Before alignment right out of the box (a bit to high and slightly tiltled)
-<img width="500px" style="border-color:green; border-style:groove; border-width:3px;" src="https://github.com/user-attachments/assets/70420c73-3865-4573-9209-69229468f6fe" />
 
 
 
+
+
+<img width="500px" src="" />
 
 
 
