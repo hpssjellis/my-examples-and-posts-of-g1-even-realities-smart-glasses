@@ -33,13 +33,13 @@ like my regular glasses.
 # April 22, 2025 second thoughts and images
 
 
+1. Every school district should have a non-prescription pair of these with a wifi only cell phone for teacher to try!
+1. The dashboard widget allows showing: notes, stocks or news and whichever is showing your can tap right to scroll through them, but I would like to be able to scroll through all of the notes, stocks and news. That feels like a useful easy to fix software update.
+1. Note the News is very nice as it updates live, but I really want to see my notes as that is a super useful part of the glasses especially while teaching.
+1. i find the triple tap not very consistent.
+1. maps does not play nice with my garmin watch sending a continuous stream of messages. I would really like a Garmin app that could do a few of the controls, such as A. leave the present app, B. wakeup, C. go to sleep, D. Activate last telepromptor.
+   
 
-
-
-<img width="500px" src="" />
-
-
-<img width="500px" src="" />
 
 
 Unboxing Video   
