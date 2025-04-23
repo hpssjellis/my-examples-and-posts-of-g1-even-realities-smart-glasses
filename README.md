@@ -59,6 +59,13 @@ like my regular glasses.
 1. I like that the notes can be added to the app even without wearing the glasses. many of the apps need the glasses on
 1. I now understand the difference between a note and the transcribe feature. I originally thought they were kind of the same thing. The transcribe is half way between the Even AI and the note, giving you a bit of the best of both worlds. Unlike the Even AI which is a live LLM, with the transcribe you can make your note, then edit it and then send it to the LLM, (but only once for each note you tanscribe), say youo are making a lesson. you can then copy that AI output into the teleprompter for presentation.
 1. major concern/confusion I was expecting my messages to show up, but I only see a bell with a number zero, the main message area shows my notes, I am not sure if this is a setup mistake on my part or if the glasses can't actually show my notifications just tell me that I have an amount of messages.
+1. I now understand why the teleprompter has a width setting, it doesn't really make things bigger just reduces the column width so your eyes are not so obvious that you are reading things.
+1. On the main page of the app is a settings icon top right which allows several things mainly the angle to lookup to see the dashboard but also the with and nearness of the screen which is really interesting as you can set it from 1 foot to about 5 feet away from you. My eyesite does not like the long range but the ability to do that is very cool.
+
+
+
+
+# media
 
 
 
