@@ -1,4 +1,4 @@
-# my-examples-and-posts-of-g1-even-realitities-smart-glasses
+# my-examples-and-posts-of-g1-[even-realitities](https://www.evenrealities.com/)-smart-glasses
 My ones are the G1B multifocal prescription smart glasses
 
 I unpacked the glasses Friday April 18th, 2025
