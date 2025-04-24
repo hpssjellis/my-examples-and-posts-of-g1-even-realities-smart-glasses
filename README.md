@@ -62,6 +62,25 @@ like my regular glasses.
 1. I now understand why the teleprompter has a width setting, it doesn't really make things bigger just reduces the column width so your eyes are not so obvious that you are reading things.
 1. On the main page of the app is a settings icon top right which allows several things mainly the angle to lookup to see the dashboard but also the with and nearness of the screen which is really interesting as you can set it from 1 foot to about 5 feet away from you. My eyesite does not like the long range but the ability to do that is very cool.
 
+## April 24th, 2025 Navigation while biking
+
+1. I forgot my shades first ride, so looking up at a bright blue sky I could barely see the dashboard.
+2. Liked the tap a part of the map to go there. Really smooth and fast
+3. Turns easy to see, measurements looked accurate, side map was interesting not really sure my orientation on the side map
+4. Look up for full map, very cool liked it alot. Not sure how long it stayed visible, obviously looking up would be dangerous for an extended time
+5. When I messed up my route (on purpose) it recalculated the directions smoothly, but the main map did take a few views to complete the recalculation. I thought it froze, but it just took some time
+6. Switching to silent mode when I needed to concentrate on safely riding, worked fine (3 taps either side)
+7. Switching back to maps did not work. (DOES 3 TAPS GET OUT OF SILENT MODE?) I don't think that has ever worked for me.
+8. 2 taps out of navigation worked and I could write a note or ask the LLM, which was a very cool feature I was not expecting
+9. Sad that getting back into the navigation it had lost my end point. Easy to re-tap or re-click a saved location (probably a good idea to save your location because of this loosing location on exit)
+10. Shades and increasing the brightness really helped for the main map on a bright day.
+11. Sound was on by default, I get that is probably a good idea so that people know they can do sound, but each time I had to turn it off. In many ways sound is much safer than the visual map, I just really like seeing where I am going.
+12. Not sure if the map is always visible or if a turn is not for several miels if it disappears. (I think that could be a setting some people would like.)
+13. PROS: Navigation with the G1 is a amazing feature, easy to select, easy to see
+14. CONS: Silent mode return, closing and returning to apps
+15. SUGGESTIONS: have a map hide feature that is not silent mode, left or right single tap just hides the map for safety reasons. Allow returning from other apps to navigation
+
+
 
 
 
@@ -83,6 +102,15 @@ Unboxing Video
 https://github.com/user-attachments/assets/1a137cd5-e420-4d60-ac45-683e54a220a8
 
 <br><br>
+
+
+Biking videos
+
+when ready
+
+<br><br>
+
+
 
 Dashboard   
 
