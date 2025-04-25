@@ -108,6 +108,17 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 
 
 
+## April 25th, 2025
+
+1. I was in a 6:00 am zoom meeting today and a cmppany came up that I knew nothing about and I did a quick google / chatgpt search but didn't want to look away from the presenter while reading the reply. Why can't I beam the results to my glasses? Best from a webpage but also in the app I don't think there is a way to type what you want and have the EvenAI report that to the glasses. Seems like a simple improvement. Make the glasses useful when you can't speak. What about in a nosy environment like a rock concert or subway station, are the glasses useless if I can't speak. On the app you can?
+2. Hack solution to the above issue. Go to chatGPT or a webpage, get your results, copy them to a new "teleprompt" then show from there, but the switching apps is irritating and feels clunky, better solution would be for EvenAI to have a text entry and easy result edit before the teleprompt part of EvenAI 
+
+
+
+
+
+
+
 
 
 
