@@ -14,7 +14,7 @@ I unpacked the glasses Friday April 18th, 2025
 
 
 
-The main Linkedin Post is [here](https://www.linkedin.com/feed/update/urn:li:activity:7319089811049365506/) Check the comments for all other linkedIn posts about the G1 glasses
+The main Linkedin Post is [here](https://www.linkedin.com/feed/update/urn:li:activity:7319089811049365506/) Check the comments for all other linkedIn posts about the G1 glasses. I call myself the Functional Futurist which aligns with having these glasses. They are really cool and I like that thye con't have a camera (battery life and updates to the camera)
 
 
 ## My Main G1B Youtube Playlist 
@@ -85,7 +85,7 @@ like my regular glasses.
 
 
 1. I lost my Garmin watch charge cable today, so I thought I would wear the G1's for the day, unfortunately I often use my watch to use the count down timer and the stop watch. I feel that those functions would be very useful in the G1's. Just a thought.
-
+1. Wierd but if you take the glasses out of the case and wait about 15 s they start and seem fine, but until you actually connect them to your app the time is off. I will need to check if I leave these on longer if the time figures out what is correct.
 
 
 
