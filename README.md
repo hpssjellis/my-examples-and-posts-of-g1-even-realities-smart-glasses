@@ -81,6 +81,21 @@ like my regular glasses.
 15. SUGGESTIONS: have a map hide feature that is not silent mode, left or right single tap just hides the map for safety reasons. Allow returning from other apps to navigation
 
 
+## Dashboard Thoughts
+
+
+1. I lost my Garmin watch charge cable today, so I thought I would wear the G1's for the day, unfortunately I often use my watch to use the count down timer and the stop watch. I feel that those functions would be very useful in the G1's. Just a thought.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
