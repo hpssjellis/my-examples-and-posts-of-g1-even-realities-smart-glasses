@@ -89,8 +89,22 @@ like my regular glasses.
 
 
 
+## OMG Fitness
+
+1. When I do 
+situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I always put in an ear bud and while doing situps I wrote a note to remind me tomorrow about something and then I tried the Even AI for the lyrics to a familar song. OMG that was fun, using my Garmin to cycle through songs and the Even AI to show the lyrics and then try singing along to the songs (I have never been any good at remembering lyrics). I had so much fun I did 22 minutes of situp. Yes the wordds floated around and I needed to try to keep my head as still as possible but completely easy to sing along to a song and lose myself in the fun. I will need to take them for a run. I wonder how sweat resistant they are at the ears. Of course i wouldn't wear them if it was going to rain.
+1. one main compalint about the Even AI is you can't activate the Auto scroll or even the speed of the scrolling. that seems like a software tweak that is do-able. The other option is to use the teleprompter and setup an entire playlist of songs that match the spotify playlist. You can probably download that from spotify.
+2. One weird thing about the green letters, I find they are really easy to remember for someone as visual as I am. They could be a serious learning aid.
+
+## G1 for students
+1. As a teacher I have spent the last 10 years saying cell phones are hurting students ability to concentrate long enough to learn how to computer code. So much so that I actually have a product to help teachers contain student cell phones without the teacher having to touch them (dropping and breaking a students cell phone would be a super pain). Anyway here is a link to my [no-touch cell phone lockers](https://www.amazon.ca/Generic-loc-ssb-v01-No-Touch-Phone-Locker/dp/B0D9MK345T)
+2. My attitude in the classroom is that students spend the entire class learning curricular topics. That's it.
+3. Some schools say giving students a flip phone is the answer, I am so against that.
+4. What abouut students having the G1? Their cell phones can stay in thier bag or be locked up and the student has the ability to make notes, do presentations and use the Even AI to learn. No games, no social media just high level learning
 
 
+
+[No-touch Cell Phone Locker<br><img width="300px" src="https://github.com/user-attachments/assets/d0c33b79-70aa-40cd-b498-12e8d93c4d70" />](https://www.amazon.ca/Generic-loc-ssb-v01-No-Touch-Phone-Locker/dp/B0D9MK345T)
 
 
 
