@@ -93,7 +93,7 @@ like my regular glasses.
 
 1. When I do 
 situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I always put in an ear bud and while doing situps I wrote a note to remind me tomorrow about something and then I tried the Even AI for the lyrics to a familar song. OMG that was fun, using my Garmin to cycle through songs and the Even AI to show the lyrics and then try singing along to the songs (I have never been any good at remembering lyrics). I had so much fun I did 22 minutes of situp. Yes the wordds floated around and I needed to try to keep my head as still as possible but completely easy to sing along to a song and lose myself in the fun. I will need to take them for a run. I wonder how sweat resistant they are at the ears. Of course i wouldn't wear them if it was going to rain.
-1. one main compalint about the Even AI is you can't activate the Auto scroll or even the speed of the scrolling. that seems like a software tweak that is do-able. The other option is to use the teleprompter and setup an entire playlist of songs that match the spotify playlist. You can probably download that from spotify.
+1. one main compalint about the Even AI is you can't activate the AI scrolling or even the speed of the auto scrolling. That seems like a software tweak that is do-able. The other option is to use the teleprompter and setup an entire playlist of songs that match the spotify playlist. You can download that from spotify for individual songs, not the whole playlist.
 2. One weird thing about the green letters, I find they are really easy to remember for someone as visual as I am. They could be a serious learning aid.
 
 ## G1 for students
@@ -114,13 +114,16 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 2. Hack solution to the above issue. Go to chatGPT or a webpage, get your results, copy them to a new "teleprompt" then show from there, but the switching apps is irritating and feels clunky, better solution would be for EvenAI to have a text entry and easy result edit before the teleprompt part of EvenAI 
 3. I am a bit to shy to make a video of me singing with the teleprompter working, but it really is amazing. For people like me who don't remember lyrics well it is so much fun to just sing along with a song. I will see if I can post a video, btu might not
 4. These things are so amazing a night. The green text is so easy to read in the dark, to study a subject with them or practice a speach is really a pleasure in the dark. It almost would be an interesting feature on the G2 to have a front facing LED, that was easy to turn on. I find I am walking around the house in the dark and just want a light to see what is in fron of me.
-5. HACK: The EVENAI is not great as a teleprompter but it is easy to copy the responsee and paste in in the teleprompter and quickly edit it, make sure auto-scroll is on and then present it. This would be awesome for both teachers and students, to be able to present a concept with barely a few minutes prep.
+5. HACK: The EVENAI is not great as a teleprompter but it is easy to copy the responsee and paste in in the teleprompter and quickly edit it, make sure AI-scrolling is on and then present it. This would be awesome for both teachers and students, to be able to present a concept with barely a few minutes prep.
 6. I will try to make some videos. I just found out that I can't record on the same phone while playing a song and using the teleprompter, luckily I have a second phone just need to charge it.
 
 
 
 
+## April26th, 2025
 
+1. When giving a speach (or singing) best to have the teleprompter mode open with AI scrolling activated, it is really good at finding out where you are in the speech except for when it gets too far ahead, that is when a quick look at what the app teleprompter is seeing is helpful. You can quickly move the speech down an inch or two and the AI scrolling then detects really well again.
+2. I may have mentioned this before but I really want to do a speach with a lot of dryexpert information that I constantly go on tangents and then back to the speach with the AI scrolling detection working great.
 
 
 
