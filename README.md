@@ -112,7 +112,10 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 
 1. I was in a 6:00 am zoom meeting today and a cmppany came up that I knew nothing about and I did a quick google / chatgpt search but didn't want to look away from the presenter while reading the reply. Why can't I beam the results to my glasses? Best from a webpage but also in the app I don't think there is a way to type what you want and have the EvenAI report that to the glasses. Seems like a simple improvement. Make the glasses useful when you can't speak. What about in a nosy environment like a rock concert or subway station, are the glasses useless if I can't speak. On the app you can?
 2. Hack solution to the above issue. Go to chatGPT or a webpage, get your results, copy them to a new "teleprompt" then show from there, but the switching apps is irritating and feels clunky, better solution would be for EvenAI to have a text entry and easy result edit before the teleprompt part of EvenAI 
-
+3. I am a bit to shy to make a video of me singing with the teleprompter working, but it really is amazing. For people like me who don't remember lyrics well it is so much fun to just sing along with a song. I will see if I can post a video, btu might not
+4. These things are so amazing a night. The green text is so easy to read in the dark, to study a subject with them or practice a speach is really a pleasure in the dark. It almost would be an interesting feature on the G2 to have a front facing LED, that was easy to turn on. I find I am walking around the house in the dark and just want a light to see what is in fron of me.
+5. HACK: The EVENAI is not great as a teleprompter but it is easy to copy the responsee and paste in in the teleprompter and quickly edit it, make sure auto-scroll is on and then present it. This would be awesome for both teachers and students, to be able to present a concept with barely a few minutes prep.
+6. I will try to make some videos. I just found out that I can't record on the same phone while playing a song and using the teleprompter, luckily I have a second phone just need to charge it.
 
 
 
