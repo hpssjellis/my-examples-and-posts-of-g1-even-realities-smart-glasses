@@ -124,7 +124,8 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 
 1. When giving a speach (or singing) best to have the teleprompter mode open with AI scrolling activated, it is really good at finding out where you are in the speech except for when it gets too far ahead, that is when a quick look at what the app teleprompter is seeing is helpful. You can quickly move the speech down an inch or two and the AI scrolling then detects really well again.
 2. I may have mentioned this before but I really want to do a speach with a lot of dryexpert information that I constantly go on tangents and then back to the speach with the AI scrolling detection working great.
-
+3. Whent on a run I will upload the video soon
+4. Made a spotify lyric playlist scrapper to copy the enitre playlist of scong lyrics into the teleprompter. [spotify06.html](https://hpssjellis.github.io/my-examples-and-posts-of-g1-even-realitities-smart-glasses/)
 
 
 
