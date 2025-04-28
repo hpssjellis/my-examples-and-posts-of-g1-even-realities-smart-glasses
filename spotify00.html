@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Spotify Lyrics Fetcher</title>
+</head>
+<body style="font-family: Arial; padding:10px;">
+
+<h2>🎵 Change Playlist</h2>
+<input type="text" id="myPlaylistInput" placeholder="Paste playlist URL or ID" size="60">
+<br>
+<input type="button" value="Change Playlist" onclick="myChangePlaylist()">
+<br><br>
+
+<h2>🎵 My Playlist</h2>
+
+<!-- Embedded Spotify Playlist -->
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M" 
+width="100%" height="380" frameBorder="0" allowfullscreen="" 
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+loading="lazy"></iframe>
+
+<br><br>
+
+<h2>📝 Paste Raw Playlist Copy</h2>
+
+Accurate copy the titles and artists above and paste below
+
+<textarea id="myRawPlaylistInput" rows="8" cols="80" placeholder="Paste your raw copied playlist data here..."></textarea>
+<br>
+
+<input type="button" value="Format Playlist Data" onclick="myFormatRawPlaylist()">
+<br><br>
+
+<h2>🎼 My Songs List</h2>
+
+<textarea id="mySongsDisplay" rows="6" cols="80" style="margin-bottom:10px;"></textarea>
+<br>
+
+<input type="button" value="Update Song List" onclick="myUpdateSongsList()">
+<br><br>
+
+<input type="button" value="Fetch Lyrics" onclick="myFetchLyrics()">
+
+<br><br>
+<h2>🎤 Lyrics Output</h2>
+
+<br><br>
+<input type="button" value="Lyrics to Clipboard" onclick="myCopyText()">
+<br><br>
+
+<textarea id="myLyricsOutput" rows="20" cols="80" placeholder="Lyrics will appear here..."></textarea>
+
+<script>
+
+
+
+
+function myChangePlaylist() {
+    let myInput = document.getElementById("myPlaylistInput").value.trim();
+    if (!myInput) {
+        alert("Please enter a Playlist ID or URL.");
+        return;
+    }
+    // Extract Playlist ID if full URL is pasted
+    let myPlaylistID = "";
+    if (myInput.includes("playlist/")) {
+        let myParts = myInput.split("playlist/");
+        myPlaylistID = myParts[1].split("?")[0];
+    } else {
+        myPlaylistID = myInput;
+    }
+    let myIframe = document.querySelector("iframe");
+    myIframe.src = "https://open.spotify.com/embed/playlist/" + myPlaylistID;
+}
+
+
+
+
+// My default 3 songs list (title and artist)
+let mySongsList = [
+    { title: "Blinding Lights", artist: "The Weeknd" },
+    { title: "Watermelon Sugar", artist: "Harry Styles" },
+    { title: "Levitating", artist: "Dua Lipa" }
+];
+
+// Show the songs list nicely formatted
+function myShowSongsList() {
+    let myText = "";
+    for (let mySong of mySongsList) {
+        myText += mySong.title + " by " + mySong.artist + "\n";
+    }
+    document.getElementById("mySongsDisplay").value = myText.trim();
+}
+
+// Update the songs list based on textarea input
+function myUpdateSongsList() {
+    let myInputText = document.getElementById("mySongsDisplay").value.trim();
+    let myLines = myInputText.split("\n");
+    mySongsList = [];
+    for (let myLine of myLines) {
+        let myParts = myLine.split(" by ");
+        if (myParts.length === 2) {
+            let myTitle = myParts[0].trim();
+            let myArtist = myParts[1].trim();
+            if (myTitle && myArtist) {
+                mySongsList.push({ title: myTitle, artist: myArtist });
+            }
+        }
+    }
+    //alert("Song list updated! (" + mySongsList.length + " songs)");
+}
+
+// Format raw playlist text into 'Title by Artist'
+function myFormatRawPlaylist() {
+    let myRaw = document.getElementById("myRawPlaylistInput").value.trim();
+    let myLines = myRaw.split("\n").filter(line => line.trim() !== "");
+
+    let myFormatted = "";
+    for (let i = 0; i < myLines.length; i += 3) {
+        let myTitle = myLines[i] ? myLines[i].trim() : "Unknown Title";
+        let myArtist = myLines[i + 1] ? myLines[i + 1].trim() : "Unknown Artist";
+        // Ignore the third line (duration)
+        myFormatted += myTitle + " by " + myArtist + "\n";
+    }
+
+    document.getElementById("mySongsDisplay").value = myFormatted.trim();
+    //alert("Formatted playlist! Ready to Update Song List.");
+}
+
+// Fetch lyrics for one song
+async function myGetLyrics(myTitle, myArtist) {
+    let myQuery = encodeURIComponent(myTitle);
+    let myUrl = `https://api.lyrics.ovh/v1/${encodeURIComponent(myArtist)}/${myQuery}`;
+    try {
+        let myResponse = await fetch(myUrl);
+        if (myResponse.ok) {
+            let myData = await myResponse.json();
+            return myData.lyrics || "Lyrics not found.";
+        } else {
+            return "Lyrics not found.";
+        }
+    } catch (myError) {
+        return "Error fetching lyrics.";
+    }
+}
+
+// Fetch lyrics for all songs
+async function myFetchLyrics() {
+    let myFinalText = "";
+    for (let mySong of mySongsList) {
+        let myLyrics = await myGetLyrics(mySong.title, mySong.artist);
+        myFinalText += mySong.title + " by " + mySong.artist + "\n\n" + myLyrics + "\n\n---------------------------------------\n\n";
+    }
+    document.getElementById("myLyricsOutput").value = myFinalText.trim();
+}
+
+
+function myCopyText() {
+  let myTextarea = document.getElementById('myLyricsOutput');
+  myTextarea.select();
+  myTextarea.setSelectionRange(0, 99999); // For mobile devices
+  document.execCommand('copy');
+  //alert('Text copied to clipboard!');
+}
+
+
+// Call the function once at the beginning to show song list
+myShowSongsList();
+</script>
+
+</body>
+</html>
