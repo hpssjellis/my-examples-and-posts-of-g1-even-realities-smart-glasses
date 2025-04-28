@@ -1,4 +1,4 @@
-# my-examples-and-posts-of-g1-[even-realitities](https://www.evenrealities.com/)-smart-glasses
+# my-examples-and-posts-of-g1-[even-realities](https://www.evenrealities.com/)-smart-glasses
 My ones are the G1B multifocal prescription smart glasses.
 
 Note: I am not paid by Evan Realitites or have any special treatment (I don't even know if they like this review), I also teach Robotics so feel I have some things to say about this product. 
