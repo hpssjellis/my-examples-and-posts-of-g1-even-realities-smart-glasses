@@ -120,7 +120,7 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 
 
 
-## April26th, 2025
+## April 26th, 2025
 
 1. When giving a speach (or singing) best to have the teleprompter mode open with AI scrolling activated, it is really good at finding out where you are in the speech except for when it gets too far ahead, that is when a quick look at what the app teleprompter is seeing is helpful. You can quickly move the speech down an inch or two and the AI scrolling then detects really well again.
 2. I may have mentioned this before but I really want to do a speach with a lot of dryexpert information that I constantly go on tangents and then back to the speach with the AI scrolling detection working great.
@@ -128,6 +128,10 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 4. Made a spotify lyric playlist scrapper to copy the enitre playlist of scong lyrics into the teleprompter. [spotify06.html](https://hpssjellis.github.io/my-examples-and-posts-of-g1-even-realities-smart-glasses/spotify06.html)
 
 
+
+## April 27, 2025
+1. I finally figured out how to ajust the green screen so it was low and as big as possible. I think I will make a video about it. Funny how I totally did not understand the labels. I had to sit in front of a box (my TV) and line up the output and then make adjustments until I understood what was happening. The 5M adjustment is the biggest and the lower height is the lowest and easiet to see.
+2. I finally figured out the triple tap to toggle silent mode. (I still want some way to easily and quickly hide the monitor briefly and bring it back where it last was). note:silent mode is a full resets for almost all apps, even the map is fully reset losing your last location which is why you should often save the location you want to go to. The only think that doesn't seem fully reset is your notes: if you werre on note 3/4 after re-activation you are still on the same note.
 
 
 
