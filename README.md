@@ -136,7 +136,19 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 
 ## May 2nd
 1. Getting much better with the buttons. Can consistently triple tap for silent and activated mode.
-2. Would really like a hide-screen mode not full silent. The hide screen mode would just hide the screen but not turn anything off. Very important for driving or riding to shut off the screen at an intersection if things start to get tricky and you want to fully concentrate, but if you put 
+2. Would really like a hide-screen mode not full silent. The hide screen mode would just hide the screen but not turn anything off. Very important for driving or riding to shut off the map screen at an intersection if things start to get tricky and you want to fully concentrate, but if you put silent mod eon with a triple tap, when you re-activate you have lost the map ability and need to pull over to get it working again using the app.
+3. I have always had the dashboard set to quicknote display. very sad to find out it only shows 4 notes, however that does force me to display only 4 of the important notes and hide the other ones using the App. I am not sure why even realities did not use the same as the news feature and just load the next 4 notes as you get to the 4th one.
+4. So I recently switched the dashboard to the news app. I AM SO ADDICTED TO THE NEWS APP, basically if you are ever bored look up and get an AI generated news tip from multiple sites based on what you want to see, I chose Science, each time you look up it shows the same news aarticle, but if you tap ( I swipe as it is fast and easy to do) you then get the next news story, after showing all 4 it then loads a new set of 4. This is amazing, and really useful and really addicting, no more boring meetings. I also used the app to lower the dashboard activation angle just to use the news app. Unlike a news app on your phone, this is a combined news app from multiple sources.
+5. When in the news app I would like the left button long hold to activate the evenAI about the article you are reading and the right button hold to save the news article to your quicknotes. This activity should be doable since those long taps do not work when you are in the dawhboard state.
+6. My present hack is I get out of the dashboard, hold the left button and ask evenAI about the news source and what I remember of the article and it generates fairly often what I am looking for, (I really struggle with the details of the news story and sending those details to EvenAI.
+
+
+
+
+
+
+
+
 
 
 # media
