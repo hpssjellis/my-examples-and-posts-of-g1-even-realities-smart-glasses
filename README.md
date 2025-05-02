@@ -1,4 +1,4 @@
-# my-examples-and-posts-of-g1-[even-realities](https://www.evenrealities.com/)-smart-glasses
+f# my-examples-and-posts-of-g1-[even-realities](https://www.evenrealities.com/)-smart-glasses
 My ones are the G1B multifocal prescription smart glasses.
 
 Note: I am not paid by Evan Realitites or have any special treatment (I don't even know if they like this review), I also teach Robotics so feel I have some things to say about this product. 
@@ -125,7 +125,7 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 1. When giving a speach (or singing) best to have the teleprompter mode open with AI scrolling activated, it is really good at finding out where you are in the speech except for when it gets too far ahead, that is when a quick look at what the app teleprompter is seeing is helpful. You can quickly move the speech down an inch or two and the AI scrolling then detects really well again.
 2. I may have mentioned this before but I really want to do a speach with a lot of dryexpert information that I constantly go on tangents and then back to the speach with the AI scrolling detection working great.
 3. Whent on a run I will upload the video soon
-4. Made a spotify lyric playlist scrapper to copy the enitre playlist of scong lyrics into the teleprompter. [spotify06.html](https://hpssjellis.github.io/my-examples-and-posts-of-g1-even-realities-smart-glasses/spotify06.html)
+4. Made a spotify lyric playlist scrapper to copy the enitre playlist of scong lyrics into the teleprompter. [spotify00.html](https://hpssjellis.github.io/my-examples-and-posts-of-g1-even-realities-smart-glasses/spotify00.html)
 
 
 
