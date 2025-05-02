@@ -1,8 +1,10 @@
-f# my-examples-and-posts-of-g1-[even-realities](https://www.evenrealities.com/)-smart-glasses
+# my-examples-and-posts-of-g1-even-realities-smart-glasses
 My ones are the G1B multifocal prescription smart glasses.
 
+Link to [Even Realities](even-realities](https://www.evenrealities.com/)
+
 Note: I am not paid by Evan Realitites or have any special treatment (I don't even know if they like this review), I also teach Robotics so feel I have some things to say about this product. 
-My github profile is [here](https://github.com/hpssjellis)
+My github profile is [here](https://github.com/hpssjellis) and if viewing this page from the web view the github for it is [here](https://github.com/hpssjellis/my-examples-and-posts-of-g1-even-realities-smart-glasses)
 
 I unpacked the glasses Friday April 18th, 2025
 
