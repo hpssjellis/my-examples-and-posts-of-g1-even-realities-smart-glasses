@@ -146,7 +146,10 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 7. Finally the first real bug, I don't know what caused it but the fix was easy. I have had this a couple of times but din't know what was happening. It felt like the words of the dashboard were a little surreal, I thought my glasses were not aligned properly for one eye but not the other, what was happeing is both eyes were showing a different news item. I could prove it by closing one eye and then closing the other eye. easy fix was the right button to forward both sides to the correct news page. I could has also triple tapped and then tripple tapped again to reset things. If it happens again I will test what is the best way to fix it and possibly what causes it. It is a strange feeling having different text shinning into different eyes.
 
 
-
+# May 8th, 2025
+1. found a weird bug in the quicknotes. somehow things are entered into the clipbaord and pasted when you move around. i will try to clarify when I figure it out
+2. A nice feature is that if you start and entry with a number each time you hit enter it makes the next number in the list. I am making ToDo and To Buy liats and then just deleting the entries but leaving the numbers. i will show what I mean in my video.
+3. really liking the quicknotes. they are my go to organizer.
 
 
 
