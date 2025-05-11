@@ -150,7 +150,42 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 1. Found a weird bug in the quicknotes. somehow things are entered into the clipbaord and pasted when you move around. i will try to clarify when I figure it out
 22.Try this. in a quicknote write a sentence like "This is really weird" then without hitting enter move your cursor to a new location within the quicknote and hit enter. the line gets copied to the new location and is still at the old location. this is definitely a bug. Not a deal breaker but a little weird. The effect does not happen if on the first entry you hit return before moving your cursor. soltuoon at the end of each line hit return, then no weird auto copy happens. 
 3. A nice feature is that if you start and entry with a number each time you hit enter it makes the next number in the list. I am making ToDo and To Buy liats and then just deleting the entries but leaving the numbers. i will show what I mean in my video.
-4. really liking the quicknotes. they are my go to organizer.
+4. I eally like the quicknotes. They are my go-to organizer.
+5. One trick enter a "1. " and a note. Then hit enter it auto adds the next number, but better yet, when you have completed that task, then just delete it but leave the number. Then it is ready for the next task. Sure this could be programmed better but it works and is really useful.
+6. I still would like notes and stocks and news being able to be shown on the dashboard with a simple way to switch between them.
+
+
+
+# May 11, 2024 G2 Suggestions:
+1. making my suggested updates to the G1, may introduce other not thought of bugs, so I understand if Even Realities ignores my suggestions.
+2. However the G2 glasses could be made with my suggestions and debugged to make a smoother process.
+3. Promote no camera, camera drains battery and unless you have edge AI abilities needs a constant internet connection with band width issues
+4. Eventually there will be a camera like a Garmin watch and earbuds that integrates seemlessly with these glasses
+5. Conside adding an IMU motion sensor. This would give you much more control over inputs. Also coud be a setting or a quick flip to turn the IMU on or off to conserve battery.
+6. Consider a second screen at eye level. Since only one screen would work at a time it would not be an energy drain. I am curious if the second screen would really change the cost of the glasses dramatically
+7. Have the G2 an advanced pair wiht a higher cost that allows the G1 to still be an entry level pair of smart glasses
+8. Fix the touch abillity on the App. Strangely different than all other apps I have used, seems to need a longer or more solid touch on items.
+9. Makes the dashboard better. It is good but could allow Notes, Stocks and News. Also for the continuous news have a long look up activate the dashboard as it now does, but a fast lookup-look-down activate the next news item. That way I would never have to touch the buttons to move between items.
+10. Allow the transcribe to enter text and use the AI summary. I hack this by making a few blank entries which I can then edit and ask the AI and then read the results on my glasses
+11. Fix switching between teleprompter EvenAI, Manual and auto modes. Herre is where an IMU motion senor might help to give people a bit more control
+12. Add many more settings. Where they are needed is for the quick notes, and teleprompter giving better control without using the app
+
+# Summary 
+
+My github Profile is at [https://github.com/hpssjellis](https://github.com/hpssjellis)
+
+I have taught coding for other 3 decades. I taught myself how to code starting in 1977 using the [HP 67 and 97 programmable calulators](https://en.wikipedia.org/wiki/HP-67/97) I taught myself Neural Networks, the present basis for Machine Learning and AI around 1990's using quick Pascal, but things never really worked well until Google released [Tensorflow](https://www.tensorflow.org/) in 2015 and ML took off. I teach a high school multi-year tested Robotics, IoT and Machine Learning course called [maker100](https://github.com/hpssjellis/maker100-curriculum). For years I have felt that all high school and undergrad students should know hands on Robotics as well as their choosen fields. The rest of the world is starting to agree with me.
+
+I am part of the [Harvard TinyML Admin team](https://tinyml.seas.harvard.edu/team) trying to bring tinyML to students in developing countries
+
+I give blunt reviews not because I am mean, but because I want code to be as functional as possible. A pretty UI and well written and documentented code that is not functional, bothers me.
+
+The Even Realities G1 series glasses are an excellent starting point into Smart Glasses and productivity. They are the best I have seen that have the potential to  allow you to be more productive in what you are trying to do.
+
+
+
+
+
 
 
 
