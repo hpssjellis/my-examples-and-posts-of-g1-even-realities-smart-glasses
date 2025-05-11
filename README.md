@@ -21,7 +21,9 @@ The main Linkedin Post is [here](https://www.linkedin.com/feed/update/urn:li:act
 
 ## My Main G1B Youtube Playlist 
 
-The main Youtube Playlist is [here](https://www.youtube.com/shorts/fHt66Ngm9yo)
+The main Youtube Playlist is [here](https://www.youtube.com/watch?v=fHt66Ngm9yo&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=1&pp=iAQB)
+
+
 
 ## First impressions
 
