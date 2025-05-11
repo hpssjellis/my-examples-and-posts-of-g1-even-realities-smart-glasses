@@ -138,7 +138,7 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 2. I finally figured out the triple tap to toggle silent mode. (I still want some way to easily and quickly hide the monitor briefly and bring it back where it last was). note:silent mode is a full resets for almost all apps, even the map is fully reset losing your last location which is why you should often save the location you want to go to. The only think that doesn't seem fully reset is your notes: if you werre on note 3/4 after re-activation you are still on the same note.
 
 
-## May 2nd
+## May 2nd, 2025
 1. Getting much better with the buttons. Can consistently triple tap for silent and activated mode.
 2. Would really like a hide-screen mode not full silent. The hide screen mode would just hide the screen but not turn anything off. Very important for driving or riding to shut off the map screen at an intersection if things start to get tricky and you want to fully concentrate, but if you put silent mod eon with a triple tap, when you re-activate you have lost the map ability and need to pull over to get it working again using the app.
 3. I have always had the dashboard set to quicknote display. very sad to find out it only shows 4 notes, however that does force me to display only 4 of the important notes and hide the other ones using the App. I am not sure why even realities did not use the same as the news feature and just load the next 4 notes as you get to the 4th one.
