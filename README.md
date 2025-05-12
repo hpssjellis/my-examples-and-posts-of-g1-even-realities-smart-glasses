@@ -30,6 +30,14 @@ The main Youtube Playlist is [here](https://www.youtube.com/watch?v=fHt66Ngm9yo&
 3. [Running 2](https://www.youtube.com/watch?v=yulSXPIzXL0&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=3&pp=iAQB)
 4. [Review](https://www.youtube.com/watch?v=CpnY65H3yiI&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=4&pp=iAQB0gcJCYYJAYcqIYzv)
 
+<a href="https://www.youtube.com/watch?v=CpnY65H3yiI&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=4">
+  <img src="https://img.youtube.com/vi/CpnY65H3yiI/hqdefault.jpg" alt="Some Video Title" width="480">
+</a>
+
+
+
+
+
 
 ## First impressions
 
