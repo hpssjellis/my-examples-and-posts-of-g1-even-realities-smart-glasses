@@ -25,16 +25,16 @@ The main Youtube Playlist is [here](https://www.youtube.com/watch?v=fHt66Ngm9yo&
 
 
 
-1. [Unbox short](https://www.youtube.com/watch?v=fHt66Ngm9yo&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=1&pp=iAQB) <a href="https://www.youtube.com/watch?v=fHt66Ngm9yo&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=1&pp=iAQB">
+1. <a href="https://www.youtube.com/watch?v=fHt66Ngm9yo&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=1&pp=iAQB>Unbox short</a><br><a  href="https://www.youtube.com/watch?v=fHt66Ngm9yo&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=1&pp=iAQB">
   <img src="https://img.youtube.com/vi/fHt66Ngm9yo/hqdefault.jpg" alt="Unbox Short" width="480">
 </a><br>
-2. [Running 1](https://www.youtube.com/watch?v=KlU6TxoLI1Q&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=2&pp=iAQB) <a href="https://www.youtube.com/watch?v=KlU6TxoLI1Q&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=2&pp=iAQB">
+2. <a href="https://www.youtube.com/watch?v=KlU6TxoLI1Q&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=2&pp=iAQB>Running 1</a><br><a href="https://www.youtube.com/watch?v=KlU6TxoLI1Q&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=2&pp=iAQB">
   <img src="https://img.youtube.com/vi/KlU6TxoLI1Q/hqdefault.jpg" alt="Running 1" width="480">
 </a><br>
-3. [Running 2](https://www.youtube.com/watch?v=yulSXPIzXL0&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=3&pp=iAQB) <a href="https://www.youtube.com/watch?v=yulSXPIzXL0&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=3&pp=iAQB">
+3. <a href="https://www.youtube.com/watch?v=yulSXPIzXL0&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=3&pp=iAQB>Running 2</a><br><a  href="https://www.youtube.com/watch?v=yulSXPIzXL0&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=3&pp=iAQB">
   <img src="https://img.youtube.com/vi/yulSXPIzXL0/hqdefault.jpg" alt="Running 2" width="480">
 </a><br>
-4. <a href="https://www.youtube.com/watch?v=CpnY65H3yiI&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=4&pp=iAQB0gcJCYYJAYcqIYzv">Review</a> <a href="https://www.youtube.com/watch?v=CpnY65H3yiI&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=4">
+4. <a href="https://www.youtube.com/watch?v=CpnY65H3yiI&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=4&pp=iAQB0gcJCYYJAYcqIYzv">Review</a><br><a href="https://www.youtube.com/watch?v=CpnY65H3yiI&list=PL57Dnr1H_eguMlNOU4LkzZjfoVlW3Szpy&index=4">
   <img src="https://img.youtube.com/vi/CpnY65H3yiI/hqdefault.jpg" alt="Review" width="480">
 </a><br>
 
