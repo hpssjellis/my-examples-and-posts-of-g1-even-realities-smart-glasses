@@ -192,7 +192,7 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 12. Add many more settings. Where they are needed is for the quick notes, and teleprompter giving better control without using the app
 13. Consider an LED light that is easy to activate. Thesee glasses are so awesome at dusk or night or just around the housee without any lights on, that I often want to quickly see something but am really irritated by having to get my cell phone out and find the LED app, when a simple head movement could turn the light on and then the same movement to turn the light off.
 14. Could any text based app be supported? Like the news and stocks just your own cell phone apps that present text?
-15. 
+
 
 # Summary 
 
