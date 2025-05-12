@@ -169,7 +169,7 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 2. However the G2 glasses could be made with my suggestions and debugged to make a smoother process.
 3. Promote no camera, camera drains battery and unless you have edge AI abilities needs a constant internet connection with band width issues
 4. Eventually there will be a camera like a Garmin watch and earbuds that integrates seemlessly with these glasses
-5. Conside adding an IMU motion sensor. This would give you much more control over inputs. Also coud be a setting or a quick flip to turn the IMU on or off to conserve battery.
+5. Conside adding an IMU motion sensor. This would give you much more control over inputs. Also coud be a setting or a quick flip to turn the IMU on or off to conserve battery. An IMU might also make it possible to view spreadsheets, by moving your head to view other parts of the document.  Here is a video I made years ago about using an IMU to write the letters WORDS so that you could write (well with just those those 5 letters but you get the concept video [here](https://www.youtube.com/watch?v=IA-MYG8vYeg&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR&index=7) )
 6. Consider a second screen at eye level. Since only one screen would work at a time it would not be an energy drain. I am curious if the second screen would really change the cost of the glasses dramatically
 7. Have the G2 an advanced pair wiht a higher cost that allows the G1 to still be an entry level pair of smart glasses
 8. Fix the touch abillity on the App. Strangely different than all other apps I have used, seems to need a longer or more solid touch on items.
@@ -177,6 +177,9 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 10. Allow the transcribe to enter text and use the AI summary. I hack this by making a few blank entries which I can then edit and ask the AI and then read the results on my glasses
 11. Fix switching between teleprompter EvenAI, Manual and auto modes. Herre is where an IMU motion senor might help to give people a bit more control
 12. Add many more settings. Where they are needed is for the quick notes, and teleprompter giving better control without using the app
+13. Consider an LED light that is easy to activate. Thesee glasses are so awesome at dusk or night or just around the housee without any lights on, that I often want to quickly see something but am really irritated by having to get my cell phone out and find the LED app, when a simple head movement could turn the light on and then the same movement to turn the light off.
+14. Could any text based app be supported? Like the news and stocks just your own cell phone apps that present text?
+15. 
 
 # Summary 
 
