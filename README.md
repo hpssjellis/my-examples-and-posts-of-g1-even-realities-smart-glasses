@@ -194,7 +194,7 @@ situps I typically do between 6 and 10 minutes. Thought i would wear my G1's. I 
 14. Could any text based app be supported? Like the news and stocks just your own cell phone apps that present text?
 
 
-# Summary 
+# May 2025 Summary 
 
 My github Profile is at [https://github.com/hpssjellis](https://github.com/hpssjellis)
 
@@ -209,7 +209,11 @@ The Even Realities G1 series glasses are an excellent starting point into Smart 
 
 
 
+# Sept 2025 (In the school setting)
 
+Now using the even Realities glasses in the classroom. Two things are very evident. First: Using the EvenAI in front of students to ask questions them questions. For example OK class (Activate EvenAI (hold left temple) "how do you define and use a Javascript Array." Release the left temple. Look for student answers and then recite the reply. This is great makes you a wealth of information. (Yes the students eventgually clue in)
+
+One issue, what if a student has a good answer how to quickly ditch the evenAI. 
 
 
 
