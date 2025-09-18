@@ -211,9 +211,20 @@ The Even Realities G1 series glasses are an excellent starting point into Smart 
 
 # Sept 2025 (In the school setting)
 
-Now using the even Realities glasses in the classroom. Two things are very evident. First: Using the EvenAI in front of students to ask questions them questions. For example OK class (Activate EvenAI (hold left temple) "how do you define and use a Javascript Array." Release the left temple. Look for student answers and then recite the reply. This is great makes you a wealth of information. (Yes the students eventgually clue in)
+Now using the even Realities glasses in the classroom. Two things are very evident. 
 
-One issue, what if a student has a good answer how to quickly ditch the evenAI. 
+1: Using the EvenAI in front of students to ask questions from them, but while asking the question you also activate EvenAI. Then after a few seconds wait time (Good teaching technique) If anyone doesn't have an answer (I teach in a computer lab so any student could use ChatGPT etc) You read out the answer as if you are a genius.
+Most high school kids eventually figure it out but then you get to give a lesson on AR glasses, why cameras are inappropriate in the classroom, etc, etc. My only complaint is that if a student can answer the question I have not figured out how to quickly cancel the EvenAI. Also touching the glasses temples all the time is a bit irritating. I wish there was an easy Garmen smart watch or other method to control them without the glasses touching.
+
+
+
+For example: "OK class" (Activate EvenAI, hold left temple) "how do you define and use a Javascript Array." Release the left temple. Look for student answers and if none then recite the EvenAI reply."
+
+2. The EvenRealities glasses are essential for staff meetings, after a full day of teaching I have a hard time listening to a staff meeting especially when the topic is nothing to do with my teaching situation, using the lookup Dashboard News method with continuous streaming of in my case science news (use the app to adjust the angle very low). I can easily listen to the staff meeting while updating my interests in science instead of drifting off and nearly falling asleep.
+
+ Once again touching the right glasses temples to see the next news item is a bit irritating in a public setting and a smart watch or other method would be nice. Also I have mentioned this before the News streaming gets a few sentences, it would be really useful if there was a method to access the entire article or just put auto put the article into EvenAI and see what it gets from it's lookup ability. 
+
+
 
 
 
